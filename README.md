@@ -9,3 +9,5 @@
 <br>
 
 ⭐️ **[2025.03.18] 앱스토어 출시 완료**
+<br>
+🍎 [앱스토어 - 그냥메모](https://apps.apple.com/kr/app/%EA%B7%B8%EB%83%A5%EB%A9%94%EB%AA%A8/id6743368410)
